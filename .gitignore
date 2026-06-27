@@ -1,0 +1,11 @@
+out/
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+*.csv
+*.xlsx
+*.xls
+.DS_Store
+.pytest_cache/
